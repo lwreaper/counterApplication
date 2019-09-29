@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter By Nabil</string>
+    <string name="increment_text">Increment</string>
+    <string name="reset_text">Reset</string>
+    <string name="share_text">Share</string>
+
+</resources>
